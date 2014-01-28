@@ -1,1 +1,1 @@
-An exercise for Head First Servlets and JSP, O'Reilly Media.
+An exercise from Head First Servlets and JSP, O'Reilly Media.
